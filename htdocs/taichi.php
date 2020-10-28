@@ -5,7 +5,7 @@
     </head>
     <body>
         <p>
-            <?php echo "Hello World from PHP by taichi" ?>
+            <?php echo "metal is cool" ?>
         </p>
     </body>
 </html>
